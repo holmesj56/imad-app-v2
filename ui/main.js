@@ -1,5 +1,2 @@
 console.log('Loaded!');
-if(click.madi)
- {
-     madi=madi+'10px'
- }
+<img onclick="document.getElementById('madi').innerHTML=Date()">
